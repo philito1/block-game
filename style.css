@@ -1,0 +1,31 @@
+/* gameboy colours */
+/* #0f380f #306230 #8bac0f #9bbc0f */
+
+body {
+  background-color: #0f380f;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: -10px;
+}
+
+#matter-container {
+  margin: -10px;
+}
+
+#p1 {
+  font: 30px Comic Sans MS;
+  color: #9bbc0f;
+}
+
+#p2 {
+  font: 30px Comic Sans MS;
+}
